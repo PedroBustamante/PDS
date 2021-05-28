@@ -26,20 +26,19 @@ Banco de dados: csv
 
 Tarefas
 ***
+SPRINT 1:
 
-FrontEnd:
-* Tela de Login
-* Tela principal
-* Tela de Informações do Famoso
-* Tela de Contratação
+História: Ter artistas para o serviço
+Tarefas:
+* Arquitetar banco de artistas (Pedro)
+* Criar banco de dados e a tabela de artistas (Pedro)
+* Popular banco de dados com artistas, com nome, descrição, categoria e preço. (Vitor)
 
-BackEnd:
-* Buscar Famosos
-* Login de Usuário
-* Contratar
-
-BD:
-* Criar e popular tabela de famosos
-* Criar e popular tabela de áreas de famosos
-* Criar tabela de usuarios
-* Criar tabela de contratações
+História: Criação da plataforma
+Tarefas:
+* Inicializar projeto base da API. (Julia)
+* Criar endpoint de GET artista. (Julia)
+* Inicializar projeto base do Site. (Vitor)
+* Criar design da homepage, com seus respectivos componentes. (Marco)
+* Criar design da página do artista, com seus respectivos componentes. (Marco)
+* Criar design da página de checkout, com seus respectivos componentes. (Marco)
