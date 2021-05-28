@@ -23,3 +23,23 @@ Backend: NodeJS
 Frontend: ReactJS
 
 Banco de dados: csv
+
+Tarefas
+***
+
+FrontEnd:
+* Tela de Login
+* Tela principal
+* Tela de Informações do Famoso
+* Tela de Contratação
+
+BackEnd:
+* Buscar Famosos
+* Login de Usuário
+* Contratar
+
+BD:
+* Criar e popular tabela de famosos
+* Criar e popular tabela de áreas de famosos
+* Criar tabela de usuarios
+* Criar tabela de contratações
