@@ -1,9 +1,11 @@
 import React from 'react'
 
+import './styles.scss'
+
 const Home = () => {
         return (
-            <div>
-                Teste home!
+            <div className="home">
+                <h1>Teste home!</h1>
             </div>
         )
 }
