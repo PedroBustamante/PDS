@@ -20,7 +20,7 @@ export default function Cadastro() {
                     <TextField  required className="form-field" label="Senha" type="password" variant="outlined" margin="normal"/>
                 </div>
                 <div>
-                    <TextField  irequired className="form-field" label="Telefone" variant="outlined" margin="normal" type="number"/>
+                    <TextField  required className="form-field" label="Telefone" variant="outlined" margin="normal" type="number"/>
                 </div>
                 <div>
                     <Button className="submit-button" variant="outlined" type="submit">Registrar</Button>
