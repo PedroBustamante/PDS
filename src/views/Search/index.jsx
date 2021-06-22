@@ -106,20 +106,22 @@ const Search = () => {
             return (<p>Nenhum Artista por aqui =(</p>)
         } else {
             return (artists.map(artist => (
-                        <Card variant="outlined" className="artist-card">
-                            <CardHeader
-                                avatar={
-                                    <Avatar
-                                        style={{backgroundColor: "rgb(" + Math.floor(Math.random() * 200) + "," + Math.floor(Math.random() * 200) + "," + Math.floor(Math.random() * 200) + ")"}}
-                                    >
-                                        {artist.imagem ? <img src={artist.imagem} alt={artist.name[0]}></img> : artist.name[0]}
-                                    </Avatar>
-                                }
-                                title={artist.name}
-                                titleTypographyProps={{variant:'h6'}}
-                                subheader={<div className="subheader">{artist.categorySecondary ? artist.category + ' | ' + artist.categorySecondary : artist.category}</div>}
-                            />
-                        </Card>
+                        <Link to={"artist-page/" + artist.name}>
+                            <Card variant="outlined" className="artist-card">
+                                <CardHeader
+                                    avatar={
+                                        <Avatar
+                                            style={{backgroundColor: "rgb(" + Math.floor(Math.random() * 200) + "," + Math.floor(Math.random() * 200) + "," + Math.floor(Math.random() * 200) + ")"}}
+                                        >
+                                            {artist.imagem ? <img src={artist.imagem} alt={artist.name[0]}></img> : artist.name[0]}
+                                        </Avatar>
+                                    }
+                                    title={artist.name}
+                                    titleTypographyProps={{variant:'h6'}}
+                                    subheader={<div className="subheader">{artist.categorySecondary ? artist.category + ' | ' + artist.categorySecondary : artist.category}</div>}
+                                />
+                            </Card>
+                        </Link>
                     )))
         }
     }
