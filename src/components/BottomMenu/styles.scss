@@ -1,0 +1,21 @@
+.bottom-menu {
+    position: absolute;
+    width: 100vw;
+    height: 8vh;
+    bottom: 0px;
+    background: white;
+    border-top: 1px solid lightgray;
+
+    .options {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        height: 100%;
+
+        div {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+    }
+}

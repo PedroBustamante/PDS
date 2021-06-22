@@ -8,6 +8,7 @@ import Search from './views/Search'
 import SignUp from './views/SignUp'
 import Home from './views/Home'
 import Login from './views/Login'
+import Profile from './views/Profile'
 
 function App() {
   return (
@@ -25,6 +26,9 @@ function App() {
             </Route>
             <Route exact path="/login">
               <Login />
+            </Route>
+            <Route exact path="/profile">
+              <Profile />
             </Route>
           </Switch>
       </div>

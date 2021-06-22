@@ -1,7 +1,9 @@
 import React from 'react'
 import {
-  Link
+    Link
 } from "react-router-dom";
+
+import BottomMenu from '../../components/BottomMenu';
 
 import './styles.scss'
 
@@ -27,12 +29,36 @@ const Search = () => {
             categorySecondary: null,
         },
         {
+            name: 'Zeca Pagodinho',
+            price: 22,
+            twitter: '@twitter2',
+            instagram: '@instagram2',
+            category: 'Música',
+            categorySecondary: null,
+        },
+        {
             name: 'brTT',
             price: 333,
             twitter: '@twitter3',
             instagram: '@instagram3',
             category: 'LoL',
             categorySecondary: 'Trapper',
+        },
+        {
+            name: 'Neymar',
+            price: 22,
+            twitter: '@twitter2',
+            instagram: '@instagram2',
+            category: 'Esportes',
+            categorySecondary: null,
+        },
+        {
+            name: 'Ronaldinho Gaúcho',
+            price: 22,
+            twitter: '@twitter2',
+            instagram: '@instagram2',
+            category: 'Esportes',
+            categorySecondary: null,
         }
     ]
 
@@ -110,6 +136,7 @@ const Search = () => {
                 <p className="section-name" >Artistas</p>
                 {checkArtists()}
             </section>
+            <BottomMenu/>
         </div>
     )
 }

@@ -1,0 +1,37 @@
+.profile {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 8vh;
+
+    .avatar {
+        margin-bottom: 4vh;
+    }
+
+    .name {
+        font-size: 160%;
+        margin-bottom: 4vh;
+        font-weight: bold;
+    }
+
+    .data {
+        width: 90vw;
+        border-bottom: 1px solid lightgrey;
+
+        h4 {
+            margin-bottom: 0px;
+        }
+
+        p {
+            margin-top: 0px;
+        }
+    }
+
+    .logout {
+        margin-top: 8vh;
+
+        a {
+            color: red !important;
+        }
+    }
+}
