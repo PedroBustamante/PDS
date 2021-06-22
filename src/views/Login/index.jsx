@@ -8,18 +8,27 @@ import {
 
 import './styles.scss'
 
-import { Button } from '@material-ui/core';
+import { Button, TextField } from '@material-ui/core';
 
-const Login = () => {
-        return (
-            <div className="login">
-                <h1>Salve!</h1>
-                <p>Conecte-se com seu ídolo favorito!</p>
-                <div className="buttons">
-                    <Button className="home-button" variant="outlined"><Link to="/home">Entrar</Link></Button>
-                    <Button className="home-button" variant="outlined"><Link to="/signup">Cadastrar</Link></Button>
+export default function index() {
+    return (
+        <div className="login">
+            <h1>Servi</h1>
+            <form id="form-login">
+                <div>
+                    <TextField required className="form-field" label="E-mail" variant="outlined" margin="normal"/>
                 </div>
+                <div>
+                    <TextField required className="form-field"  type="password" label="Senha" variant="outlined" margin="normal"/>
+                </div>
+                <div>
+                    <Button className="submit-button" variant="outlined"><Link to="/search">Login</Link></Button>
+                </div>
+            </form>
+            <div id="register-div">
+                <p>Ainda não possui uma conta?</p>
+                <Button variant="outlined"><Link to="/signup">Cadastrar</Link></Button>
             </div>
-        )
+        </div>
+    )
 }
-export default Login;

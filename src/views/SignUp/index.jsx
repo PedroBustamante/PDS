@@ -29,12 +29,12 @@ const SignUp = () => {
                     <TextField  required className="form-field" label="Telefone" variant="outlined" margin="normal" type="number"/>
                 </div>
                 <div><Link to="/public"></Link>
-                    <Button className="submit-button" variant="outlined" type="submit"><Link to="/">Registrar</Link></Button>
+                    <Button className="submit-button" variant="outlined" type="submit"><Link to="/">Cadastrar</Link></Button>
                 </div>
             </form>
             <div id="login-div">
                 <p>Já possui uma conta?</p>
-                <Button to="/login" variant="outlined" >Login</Button>
+                <Button variant="outlined" ><Link to="/login">Login</Link></Button>
             </div>
         </div>
     )

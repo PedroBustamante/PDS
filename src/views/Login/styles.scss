@@ -1,18 +1,27 @@
 .login {
     background: linear-gradient(150deg, rgba(40,0,100,0.3) 0%, rgba(90,0,110,0.3) 24%, rgba(255,255,0,0.3) 100%);
-    height: 100vh;
+    min-height: 100vh;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
 
-    h1 {
-        margin: 0;
+    #form-login .form-field {
+        width: 90vw;
     }
 
-    .buttons {
-        .home-button:first-child {
-            margin-right: 10px;
-        }
+    #form-login .submit-button {
+        margin-top: 16px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #register-div {
+        margin-top: 30px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
     }
 }

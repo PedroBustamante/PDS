@@ -4,8 +4,9 @@ import {
   Route,
 } from "react-router-dom";
 import './App.scss';
-import Home from './views/Home'
+import Search from './views/Search'
 import SignUp from './views/SignUp'
+import Home from './views/Home'
 import Login from './views/Login'
 
 function App() {
@@ -14,13 +15,16 @@ function App() {
       <div className="App">
           <Switch>
             <Route exact path="/">
-              <Login />
-            </Route>
-            <Route exact path="/home">
               <Home />
+            </Route>
+            <Route exact path="/search">
+              <Search />
             </Route>
             <Route exact path="/signup">
               <SignUp />
+            </Route>
+            <Route exact path="/login">
+              <Login />
             </Route>
           </Switch>
       </div>
