@@ -1,5 +1,5 @@
 import { Router } from 'express';
-import { db } from '../../database.mjs';
+import { getCelebrity } from '../methods/getCelebrity.mjs';
 
 export const getCelebrityRouter = new Router();
 
@@ -8,16 +8,7 @@ getCelebrityRouter.get('/', async (req, res) => {
         query: { id },
     } = req;
 
-    const result = db.Celebrities.find(item => item.id === +id);
-    if (!result) {
-        const error = {
-            code: 1,
-            message: 'Não encontramos o que você procura :(',
-            details: { id },
-        };
-
-        res.json(error);
-    }
+    const result = getCelebrity(id);
 
     res.json(result);
 });
