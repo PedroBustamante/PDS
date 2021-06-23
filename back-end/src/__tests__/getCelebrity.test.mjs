@@ -43,9 +43,9 @@ describe('Testing getCelebrity endpoint', () => {
 
     it('If id is not a number, should return error', async () => {
         expect(getCelebrity(_db)()).to.be.rejecte.with({
-            code: 1,
-            message: 'Não encontramos o que você procura :(',
-            details: { id },
+            code: 0,
+            message: 'Ocorreu um erro!',
+            details: {},
         });
     });
 });
