@@ -1,26 +1,30 @@
 {
-  "name": "api",
+  "name": "pds",
   "version": "1.0.0",
-  "description": "REST API for PDS project",
+  "description": "REST API",
   "main": "index.js",
   "dependencies": {
+    "atob": "^2.1.2",
     "axios": "^0.21.1",
     "body-parser": "^1.19.0",
+    "chai": "^4.3.4",
+    "chai-as-promised": "^7.1.1",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
+    "mocha": "^9.0.1",
     "nodemon": "^2.0.7"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "mocha": "^9.0.1"
+  },
   "scripts": {
     "build": "rm -rf build --ignore node_modules,test --out-dir build",
-    "test": "npm run test",
-    "start": "npx nodemon index.mjs"
+    "test": "npx mocha src/__tests__"
   },
   "keywords": [
     "api",
-    "backend",
-    "javascript"
+    "backend"
   ],
   "author": "Julia Tiemi",
   "license": "ISC"

@@ -1,4 +1,6 @@
 import { Router } from 'express';
+import { getCelebrity } from '../methods/index.mjs';
+import { db } from '../../database.mjs';
 
 export const getCelebrityRouter = new Router();
 
@@ -7,14 +9,7 @@ getCelebrityRouter.get('/', async (req, res) => {
         query: { id },
     } = req;
 
-    //todo: connect to database e buscar pelo identificador;
-    const result = {
-        name: 'Tiemi',
-        category: 'e-sports',
-        price: 10,
-        description:
-            'Tiemi é jogadora de Valorant, campeã mundial de cochilo competitivo e está na nossa plataforma para mandar aquele abraço pro seu amigo incel!',
-    };
+    const result = getCelebrity(db)(id);
 
     res.json(result);
 });
