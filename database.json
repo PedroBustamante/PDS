@@ -1,0 +1,533 @@
+[
+  {
+    
+    "Nome": "Marisa Monte",
+    "Twitter": "https://twitter.com/marisamonte",
+    "Instagram": "https://www.instagram.com/marisamonte/",
+    "Categoria": "Música",
+    "Preço": 100,
+    "Categoria secundária": ""
+  },
+  {
+    
+    "Nome": "Anitta",
+    "Twitter": "https://twitter.com/Anitta",
+    "Instagram": "https://www.instagram.com/anitta/",
+    "Categoria": "Música",
+    "Preço": 1000,
+    "Categoria secundária": ""
+  },
+  {
+    
+    "Nome": "Zeca pagodinho",
+    "Twitter": "https://twitter.com/zecapagodinho",
+    "Instagram": "https://www.instagram.com/zecapagodinho/",
+    "Categoria": "Música",
+    "Preço": 300,
+    "Categoria secundária": ""
+  },
+  {
+    
+    "Nome": "Caetano Veloso",
+    "Twitter": "https://twitter.com/caetanoveloso",
+    "Instagram": "https://www.instagram.com/caetanoveloso/",
+    "Categoria": "Música",
+    "Preço": 300,
+    "Categoria secundária": ""
+  },
+  {
+    
+    "Nome": "Chico Buarque",
+    "Twitter": "",
+    "Instagram": "https://www.instagram.com/chicobuarque/",
+    "Categoria": "Música",
+    "Preço": 500,
+    "Categoria secundária": ""
+  },
+  {
+    
+    "Nome": "Ivete Sangalo",
+    "Twitter": "https://twitter.com/ivetesangalo",
+    "Instagram": "https://www.instagram.com/ivetesangalo/",
+    "Categoria": "Música",
+    "Preço": 1000,
+    "Categoria secundária": ""
+  },
+  {
+    
+    "Nome": "Gilberto Gil",
+    "Twitter": "https://twitter.com/gilbertogil",
+    "Instagram": "https://www.instagram.com/gilbertogil/",
+    "Categoria": "Música",
+    "Preço": 100,
+    "Categoria secundária": ""
+  },
+  {
+    
+    "Nome": "Milton Nascimento",
+    "Twitter": "https://twitter.com/MiltonBituca",
+    "Instagram": "https://www.instagram.com/miltonbitucanascimento/",
+    "Categoria": "Música",
+    "Preço": 75,
+    "Categoria secundária": ""
+  },
+  {
+    
+    "Nome": "Djavan",
+    "Twitter": "https://twitter.com/djavanoficial",
+    "Instagram": "https://www.instagram.com/djavanoficial/",
+    "Categoria": "Música",
+    "Preço": 75,
+    "Categoria secundária": ""
+  },
+  {
+    
+    "Nome": "Gustavo Lima",
+    "Twitter": "https://twitter.com/gusttavo_lima",
+    "Instagram": "https://www.instagram.com/gusttavolima/",
+    "Categoria": "Música",
+    "Preço": 500,
+    "Categoria secundária": ""
+  },
+  {
+    
+    "Nome": "Pabllo Vittar",
+    "Twitter": "https://twitter.com/pabllovittar",
+    "Instagram": "https://www.instagram.com/pabllovittar/",
+    "Categoria": "Música",
+    "Preço": 200,
+    "Categoria secundária": ""
+  },
+  {
+    
+    "Nome": "Marília Mendonça",
+    "Twitter": "https://twitter.com/MariliaMReal",
+    "Instagram": "https://www.instagram.com/mariliamendoncacantora/",
+    "Categoria": "Música",
+    "Preço": 300,
+    "Categoria secundária": ""
+  },
+  {
+    
+    "Nome": "Wesley Safadão",
+    "Twitter": "https://twitter.com/WesleySafadao",
+    "Instagram": "https://www.instagram.com/wesleysafadao/",
+    "Categoria": "Música",
+    "Preço": 500,
+    "Categoria secundária": ""
+  },
+  {
+    
+    "Nome": "Luan Santana",
+    "Twitter": "https://twitter.com/luansantana",
+    "Instagram": "https://www.instagram.com/luansantana/",
+    "Categoria": "Música",
+    "Preço": 500,
+    "Categoria secundária": ""
+  },
+  {
+    
+    "Nome": "Kevinho",
+    "Twitter": "https://twitter.com/kevinho",
+    "Instagram": "https://www.instagram.com/kevinho/",
+    "Categoria": "Música",
+    "Preço": 400,
+    "Categoria secundária": ""
+  },
+  {
+    
+    "Nome": "Rita Lee",
+    "Twitter": "",
+    "Instagram": "https://www.instagram.com/ritalee_oficial/",
+    "Categoria": "Música",
+    "Preço": 125,
+    "Categoria secundária": ""
+  },
+  {
+    
+    "Nome": "Ney Matogrosso",
+    "Twitter": "",
+    "Instagram": "https://www.instagram.com/neymatogrosso/",
+    "Categoria": "Música",
+    "Preço": 75,
+    "Categoria secundária": ""
+  },
+  {
+    
+    "Nome": "Jorge Ben Jor",
+    "Twitter": "https://twitter.com/jorgebenjor",
+    "Instagram": "https://www.instagram.com/jorgebenjoroficial/",
+    "Categoria": "Música",
+    "Preço": 60,
+    "Categoria secundária": ""
+  },
+  {
+    
+    "Nome": "Sandy",
+    "Twitter": "https://twitter.com/SandyLeah",
+    "Instagram": "https://www.instagram.com/sandyoficial/",
+    "Categoria": "Música",
+    "Preço": 100,
+    "Categoria secundária": ""
+  },
+  {
+    
+    "Nome": "Xuxa",
+    "Twitter": "https://twitter.com/xuxameneghel",
+    "Instagram": "https://www.instagram.com/xuxameneghel/",
+    "Categoria": "Música",
+    "Preço": 500,
+    "Categoria secundária": "Televisão"
+  },
+  {
+    
+    "Nome": "Dudu",
+    "Twitter": "",
+    "Instagram": "https://www.instagram.com/7_dudu/",
+    "Categoria": "Futebol",
+    "Preço": 100,
+    "Categoria secundária": ""
+  },
+  {
+    
+    "Nome": "Gabigol",
+    "Twitter": "https://twitter.com/gabigol",
+    "Instagram": "https://www.instagram.com/gabigol/",
+    "Categoria": "Futebol",
+    "Preço": 500,
+    "Categoria secundária": ""
+  },
+  {
+    
+    "Nome": "Ronaldinho Gaúcho",
+    "Twitter": "https://twitter.com/10Ronaldinho",
+    "Instagram": "https://www.instagram.com/ronaldinho/",
+    "Categoria": "Futebol",
+    "Preço": 1000,
+    "Categoria secundária": ""
+  },
+  {
+    
+    "Nome": "Neymar",
+    "Twitter": "https://twitter.com/neymarjr",
+    "Instagram": "https://www.instagram.com/neymarjr/",
+    "Categoria": "Futebol",
+    "Preço": 3000,
+    "Categoria secundária": ""
+  },
+  {
+    
+    "Nome": "Daniel Alves",
+    "Twitter": "https://twitter.com/DaniAlvesD2",
+    "Instagram": "https://www.instagram.com/danialves/",
+    "Categoria": "Futebol",
+    "Preço": 400,
+    "Categoria secundária": ""
+  },
+  {
+    
+    "Nome": "Alisson  Becker",
+    "Twitter": "https://twitter.com/Alissonbecker",
+    "Instagram": "https://www.instagram.com/alissonbecker/",
+    "Categoria": "Futebol",
+    "Preço": 700,
+    "Categoria secundária": ""
+  },
+  {
+    
+    "Nome": "Philippe Coutinho",
+    "Twitter": "https://twitter.com/Phil_Coutinho",
+    "Instagram": "https://www.instagram.com/phil.coutinho/",
+    "Categoria": "Futebol",
+    "Preço": 400,
+    "Categoria secundária": ""
+  },
+  {
+    
+    "Nome": "Rogério Ceni",
+    "Twitter": "https://twitter.com/rogerioceni",
+    "Instagram": "https://www.instagram.com/rogerio.ceni.01/",
+    "Categoria": "Futebol",
+    "Preço": 100,
+    "Categoria secundária": ""
+  },
+  {
+    
+    "Nome": "Everton Ribeiro",
+    "Twitter": "https://twitter.com/evertonri",
+    "Instagram": "https://www.instagram.com/evertonri/",
+    "Categoria": "Futebol",
+    "Preço": 200,
+    "Categoria secundária": ""
+  },
+  {
+    
+    "Nome": "Alexandre Pato",
+    "Twitter": "https://twitter.com/Pato",
+    "Instagram": "https://www.instagram.com/pato/",
+    "Categoria": "Futebol",
+    "Preço": 75,
+    "Categoria secundária": ""
+  },
+  {
+    
+    "Nome": "Pelé",
+    "Twitter": "https://twitter.com/Pele",
+    "Instagram": "https://www.instagram.com/pele/",
+    "Categoria": "Futebol",
+    "Preço": 1000,
+    "Categoria secundária": ""
+  },
+  {
+    
+    "Nome": "Ronaldo",
+    "Twitter": "https://twitter.com/Ronaldo",
+    "Instagram": "https://www.instagram.com/ronaldo/",
+    "Categoria": "Futebol",
+    "Preço": 400,
+    "Categoria secundária": ""
+  },
+  {
+    
+    "Nome": "Zico",
+    "Twitter": "",
+    "Instagram": "https://www.instagram.com/zico/",
+    "Categoria": "Futebol",
+    "Preço": 125,
+    "Categoria secundária": ""
+  },
+  {
+    
+    "Nome": "Firmino",
+    "Twitter": "https://twitter.com/Nick_F_28",
+    "Instagram": "https://www.instagram.com/roberto_firmino/",
+    "Categoria": "Futebol",
+    "Preço": 350,
+    "Categoria secundária": ""
+  },
+  {
+    
+    "Nome": "Fabinho",
+    "Twitter": "https://twitter.com/_fabinhotavares",
+    "Instagram": "https://www.instagram.com/fabinho/",
+    "Categoria": "Futebol",
+    "Preço": 150,
+    "Categoria secundária": ""
+  },
+  {
+    
+    "Nome": "David Luiz",
+    "Twitter": "https://twitter.com/DavidLuiz_4",
+    "Instagram": "https://www.instagram.com/davidluiz_4/",
+    "Categoria": "Futebol",
+    "Preço": 350,
+    "Categoria secundária": ""
+  },
+  {
+    
+    "Nome": "Kaká",
+    "Twitter": "https://twitter.com/KAKA",
+    "Instagram": "https://www.instagram.com/kaka/",
+    "Categoria": "Futebol",
+    "Preço": 250,
+    "Categoria secundária": ""
+  },
+  {
+    
+    "Nome": "Fred",
+    "Twitter": "https://twitter.com/fredgol9",
+    "Instagram": "https://www.instagram.com/fredguedes9/",
+    "Categoria": "Futebol",
+    "Preço": 75,
+    "Categoria secundária": ""
+  },
+  {
+    
+    "Nome": "Taffarel",
+    "Twitter": "",
+    "Instagram": "https://www.instagram.com/taffareloriginal/",
+    "Categoria": "Futebol",
+    "Preço": 50,
+    "Categoria secundária": ""
+  },
+  {
+    
+    "Nome": "Ana Maria Braga",
+    "Twitter": "https://twitter.com/ANAMARIABRAGA",
+    "Instagram": "https://www.instagram.com/anamaria16/",
+    "Categoria": "Televisão",
+    "Preço": 350,
+    "Categoria secundária": ""
+  },
+  {
+    
+    "Nome": "Faustão",
+    "Twitter": "",
+    "Instagram": "https://www.instagram.com/faustosilvaofcial/",
+    "Categoria": "Televisão",
+    "Preço": 1000,
+    "Categoria secundária": ""
+  },
+  {
+    
+    "Nome": "Luciano Huck",
+    "Twitter": "https://twitter.com/lucianohuck",
+    "Instagram": "https://www.instagram.com/lucianohuck/",
+    "Categoria": "Televisão",
+    "Preço": 750,
+    "Categoria secundária": ""
+  },
+  {
+    
+    "Nome": "William Bonner",
+    "Twitter": "https://twitter.com/realwbonner",
+    "Instagram": "https://www.instagram.com/realwbonner/",
+    "Categoria": "Televisão",
+    "Preço": 500,
+    "Categoria secundária": ""
+  },
+  {
+    
+    "Nome": "Silvio Santos",
+    "Twitter": "",
+    "Instagram": "https://www.instagram.com/pgmsilviosantos/",
+    "Categoria": "Televisão",
+    "Preço": 1000,
+    "Categoria secundária": ""
+  },
+  {
+    
+    "Nome": "Jô Soares",
+    "Twitter": "",
+    "Instagram": "",
+    "Categoria": "Televisão",
+    "Preço": 150,
+    "Categoria secundária": ""
+  },
+  {
+    
+    "Nome": "Eliana",
+    "Twitter": "https://twitter.com/Eliana",
+    "Instagram": "https://www.instagram.com/eliana/",
+    "Categoria": "Televisão",
+    "Preço": 450,
+    "Categoria secundária": ""
+  },
+  {
+    
+    "Nome": "Galvão Bueno",
+    "Twitter": "https://twitter.com/galvaobueno",
+    "Instagram": "https://www.instagram.com/galvaobueno/",
+    "Categoria": "Televisão",
+    "Preço": 300,
+    "Categoria secundária": ""
+  },
+  {
+    
+    "Nome": "Ana Hickmann",
+    "Twitter": "https://twitter.com/ahickmann",
+    "Instagram": "https://www.instagram.com/ahickmann/",
+    "Categoria": "Televisão",
+    "Preço": 250,
+    "Categoria secundária": ""
+  },
+  {
+    
+    "Nome": "Sabrina Sato",
+    "Twitter": "https://twitter.com/SabrinaSato",
+    "Instagram": "https://www.instagram.com/sabrinasato/",
+    "Categoria": "Televisão",
+    "Preço": 300,
+    "Categoria secundária": ""
+  },
+  {
+    
+    "Nome": "Rodrigo Faro",
+    "Twitter": "https://twitter.com/RodrigoFaro",
+    "Instagram": "https://www.instagram.com/rodrigofaro/",
+    "Categoria": "Televisão",
+    "Preço": 250,
+    "Categoria secundária": ""
+  },
+  {
+    
+    "Nome": "Fátima Bernardes",
+    "Twitter": "https://twitter.com/fbbreal",
+    "Instagram": "https://www.instagram.com/fatimabernardes/",
+    "Categoria": "Televisão",
+    "Preço": 500,
+    "Categoria secundária": ""
+  },
+  {
+    
+    "Nome": "Ratinho",
+    "Twitter": "https://twitter.com/ratinhodosbt",
+    "Instagram": "https://www.instagram.com/oratinho/",
+    "Categoria": "Televisão",
+    "Preço": 350,
+    "Categoria secundária": ""
+  },
+  {
+    
+    "Nome": "Tiago Leifert",
+    "Twitter": "",
+    "Instagram": "https://www.instagram.com/tiagoleifert/",
+    "Categoria": "Televisão",
+    "Preço": 250,
+    "Categoria secundária": ""
+  },
+  {
+    
+    "Nome": "Luciana Gimenez",
+    "Twitter": "https://twitter.com/LucianaGimenez",
+    "Instagram": "https://www.instagram.com/lucianagimenez/",
+    "Categoria": "Televisão",
+    "Preço": 350,
+    "Categoria secundária": ""
+  },
+  {
+    
+    "Nome": "Sandra Annenberg",
+    "Twitter": "https://twitter.com/sandraannenberg",
+    "Instagram": "https://www.instagram.com/sandra.annenberg.real/",
+    "Categoria": "Televisão",
+    "Preço": 275,
+    "Categoria secundária": ""
+  },
+  {
+    
+    "Nome": "Danilo Gentili",
+    "Twitter": "https://twitter.com/DaniloGentili",
+    "Instagram": "https://www.instagram.com/danilogentili/",
+    "Categoria": "Televisão",
+    "Preço": 400,
+    "Categoria secundária": ""
+  },
+  {
+    
+    "Nome": "Pedro Bial",
+    "Twitter": "https://twitter.com/PBiaL",
+    "Instagram": "https://www.instagram.com/pedrobial/",
+    "Categoria": "Televisão",
+    "Preço": 350,
+    "Categoria secundária": ""
+  },
+  {
+    
+    "Nome": "Celso Portiolli",
+    "Twitter": "https://twitter.com/celsoportiolli",
+    "Instagram": "https://www.instagram.com/celsoportiolli/",
+    "Categoria": "Televisão",
+    "Preço": 250,
+    "Categoria secundária": ""
+  },
+  {
+    
+    "Nome": "Marcos Mion",
+    "Twitter": "https://twitter.com/marcosmion",
+    "Instagram": "https://www.instagram.com/marcosmion/",
+    "Categoria": "Televisão",
+    "Preço": 300,
+    "Categoria secundária": ""
+  }
+]
