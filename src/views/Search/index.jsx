@@ -2,11 +2,8 @@ import React from 'react'
 import {
     Link
 } from "react-router-dom";
-
 import BottomMenu from '../../components/BottomMenu';
-
 import './styles.scss'
-
 import { Button, TextField, CardHeader, Avatar, Card } from '@material-ui/core';
 import Carousel from 'react-material-ui-carousel'
 

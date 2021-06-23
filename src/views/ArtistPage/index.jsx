@@ -1,13 +1,7 @@
-import React from 'react'
-import {
-    Link
-} from "react-router-dom";
-
+import React from 'react';
 import BottomMenu from '../../components/BottomMenu';
-
-import './styles.scss'
-
 import { Button, Avatar } from '@material-ui/core';
+import './styles.scss'
 
 export default function ArtistPage() {
     const artistMock = {
@@ -40,7 +34,7 @@ export default function ArtistPage() {
                 <p>{artistMock.categorySecondary ? artistMock.category + " | " + artistMock.categorySecondary : artistMock.category}</p>
             </div>
             <div>
-                <Button variant="outlined" className="salve">
+                <Button role="callSalve" variant="outlined" className="salve">
                     Pedir um Salve!
                 </Button>
             </div>
