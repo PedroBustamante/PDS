@@ -2,11 +2,8 @@ import React from 'react'
 import {
     Link
 } from "react-router-dom";
-
 import BottomMenu from '../../components/BottomMenu';
-
-import './styles.scss'
-
+import './styles.scss';
 import { Button, Avatar } from '@material-ui/core';
 
 export default function Profile() {
@@ -29,7 +26,7 @@ export default function Profile() {
                 <p>{userMock.phone}</p>
             </div>
             <div>
-                <Button variant="outlined" className="logout">
+                <Button role="logoutButton" variant="outlined" className="logout">
                     <Link to="/">Sair</Link>
                 </Button>
             </div>
