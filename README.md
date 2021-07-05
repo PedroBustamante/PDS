@@ -51,7 +51,5 @@ História: Usuários gostariam que seus dados de cadastros fossem salvos para qu
 * Implementar testes para as novas funcionalidades
 
 História: Usuários gostariam de solicitar um Salve! de algum artista e serem notificados após essa ação
-* Implementar tela de solicitação de Salves com feedback
-* Criar endpoint de solicitação
-* Integrar tela de solicitação com a api
-* Implementar testes para as novas funcionalidades
+* Implementar tela de solicitação de Salves
+* Acrescentar feedback de retorno de pedido
